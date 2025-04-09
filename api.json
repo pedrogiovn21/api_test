@@ -1,104 +1,104 @@
 {
     "perfumes":[
-  {
-    "id": 1,
-    "nome": "Malbec",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B84387/3fcf35bd-e85f-416e-bbbb-755c89f39e95-bot-84387-malbec-malbec-desodorante-colonia-frontal-01.jpg",
-    "linha": "Classic",
-    "notas": "Amadeirado, Especiado, Almíscar",
-    "preco": 199.90,
-    "lancamento": 2005,
-    "disponivel": true
-  },
-  {
-    "id": 2,
-    "nome": "Egeo Dolce",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B82688/Egeo-Des-Col-Dolce-C-Car-90Ml-B82688_.jpg",
-    "linha": "Young",
-    "notas": "Frutado, Floral, Baunilha",
-    "preco": 159.90,
-    "lancamento": 2002,
-    "disponivel": true
-  },
-  {
-    "id": 3,
-    "nome": "Lily",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B77524/Lily-Eau-de-Parfum-75ml-B77524_.jpg",
-    "linha": "Floral",
-    "notas": "Jasmim, Lírio, Âmbar",
-    "preco": 179.90,
-    "lancamento": 2010,
-    "disponivel": true
-  },
-  {
-    "id": 4,
-    "nome": "Quasar",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B51243/5a9f04af-88a5-4c5d-9f7b-7fdb4d7d839d-bot-51243-quasar-classic-colonia-frontal-01.jpg",
-    "linha": "Masculino",
-    "notas": "Cítrico, Aquático, Madeira",
-    "preco": 189.90,
-    "lancamento": 1998,
-    "disponivel": false
-  },
-  {
-    "id": 5,
-    "nome": "Floratta",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B75792/Floratta-Red-Desodorante-Colonia-_B75792_.jpg",
-    "linha": "Feminino",
-    "notas": "Rosa, Pêssego, Musk",
-    "preco": 169.90,
-    "lancamento": 2001,
-    "disponivel": true
-  },
-  {
-    "id": 6,
-    "nome": "Botica 214",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B54658/df743814-c1ed-42e3-962b-70555b5e2a5e-bot-54658-botica-214-african-sunrise-edp-perfume-frontal-01.jpg",
-    "linha": "Sport",
-    "notas": "Marinho, Gengibre, Cedro",
-    "preco": 219.90,
-    "lancamento": 2015,
-    "disponivel": true
-  },
-  {
-    "id": 7,
-    "nome": "Zaad",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B47950/ZAAD_EDP_95ml-V6_B47950.jpg",
-    "linha": "Premium",
-    "notas": "Lavanda, Pimenta Rosa, Âmbar",
-    "preco": 249.90,
-    "lancamento": 2018,
-    "disponivel": true
-  },
-  {
-    "id": 8,
-    "nome": "Her Code",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B59555/001da8fe-17b1-419a-bf46-d7ab9f6bed4d-bot-59555-her-code-touch-edp-frontal-01.jpg",
-    "linha": "Elite",
-    "notas": "Baunilha, Caramelo, Sândalo",
-    "preco": 279.90,
-    "lancamento": 2020,
-    "disponivel": true
-  },
-  {
-    "id": 9,
-    "nome": "Liz",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B59466/abe50589-adae-4d27-98af-044ff5bc199f-bot-59466-liz-flora-colonia-frontal-01.jpg",
-    "linha": "Floral",
-    "notas": "Flor de Laranjeira, Almíscar Branco",
-    "preco": 189.90,
-    "lancamento": 2012,
-    "disponivel": false
-  },
-  {
-    "id": 10,
-    "nome": "Coffee",
-    "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B74029/9ff28bd4-2308-4d11-b94b-64214706d812-coffee-man-desodorante-colonia-100-ml.png",
-    "linha": "Gourmand",
-    "notas": "Café, Chocolate, Avelã",
-    "preco": 199.90,
-    "lancamento": 2019,
-    "disponivel": true
-  }
-]
+      {
+        "id": 1,
+        "nome": "Malbec",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B84387/3fcf35bd-e85f-416e-bbbb-755c89f39e95-bot-84387-malbec-malbec-desodorante-colonia-frontal-01.jpg",
+        "linha": "Classic",
+        "notas": "Amadeirado, Especiado, Almíscar",
+        "preco": 199.90,
+        "lancamento": 2005,
+        "disponivel": true
+      },
+      {
+        "id": 2,
+        "nome": "Egeo Dolce",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B82688/Egeo-Des-Col-Dolce-C-Car-90Ml-B82688_.jpg",
+        "linha": "Young",
+        "notas": "Frutado, Floral, Baunilha",
+        "preco": 159.90,
+        "lancamento": 2002,
+        "disponivel": true
+      },
+      {
+        "id": 3,
+        "nome": "Lily",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B77524/Lily-Eau-de-Parfum-75ml-B77524_.jpg",
+        "linha": "Floral",
+        "notas": "Jasmim, Lírio, Âmbar",
+        "preco": 179.90,
+        "lancamento": 2010,
+        "disponivel": true
+      },
+      {
+        "id": 4,
+        "nome": "Quasar",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B51243/5a9f04af-88a5-4c5d-9f7b-7fdb4d7d839d-bot-51243-quasar-classic-colonia-frontal-01.jpg",
+        "linha": "Masculino",
+        "notas": "Cítrico, Aquático, Madeira",
+        "preco": 189.90,
+        "lancamento": 1998,
+        "disponivel": false
+      },
+      {
+        "id": 5,
+        "nome": "Floratta",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B75792/Floratta-Red-Desodorante-Colonia-_B75792_.jpg",
+        "linha": "Feminino",
+        "notas": "Rosa, Pêssego, Musk",
+        "preco": 169.90,
+        "lancamento": 2001,
+        "disponivel": true
+      },
+      {
+        "id": 6,
+        "nome": "Botica 214",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B54658/df743814-c1ed-42e3-962b-70555b5e2a5e-bot-54658-botica-214-african-sunrise-edp-perfume-frontal-01.jpg",
+        "linha": "Sport",
+        "notas": "Marinho, Gengibre, Cedro",
+        "preco": 219.90,
+        "lancamento": 2015,
+        "disponivel": true
+      },
+      {
+        "id": 7,
+        "nome": "Zaad",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/products/B47950/ZAAD_EDP_95ml-V6_B47950.jpg",
+        "linha": "Premium",
+        "notas": "Lavanda, Pimenta Rosa, Âmbar",
+        "preco": 249.90,
+        "lancamento": 2018,
+        "disponivel": true
+      },
+      {
+        "id": 8,
+        "nome": "Her Code",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B59555/001da8fe-17b1-419a-bf46-d7ab9f6bed4d-bot-59555-her-code-touch-edp-frontal-01.jpg",
+        "linha": "Elite",
+        "notas": "Baunilha, Caramelo, Sândalo",
+        "preco": 279.90,
+        "lancamento": 2020,
+        "disponivel": true
+      },
+      {
+        "id": 9,
+        "nome": "Liz",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B59466/abe50589-adae-4d27-98af-044ff5bc199f-bot-59466-liz-flora-colonia-frontal-01.jpg",
+        "linha": "Floral",
+        "notas": "Flor de Laranjeira, Almíscar Branco",
+        "preco": 189.90,
+        "lancamento": 2012,
+        "disponivel": false
+      },
+      {
+        "id": 10,
+        "nome": "Coffee",
+        "imagem":"https://res.cloudinary.com/beleza-na-web/image/upload/w_297,f_auto,fl_progressive,q_auto:eco,w_80/v1/imagens/product/B74029/9ff28bd4-2308-4d11-b94b-64214706d812-coffee-man-desodorante-colonia-100-ml.png",
+        "linha": "Gourmand",
+        "notas": "Café, Chocolate, Avelã",
+        "preco": 199.90,
+        "lancamento": 2019,
+        "disponivel": true
+      }
+    ]
 }
